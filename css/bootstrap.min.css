@@ -29,3 +29,16 @@
         .container>hr {
             margin: 60px 0;
         }
+
+        .carousel .item > img {
+  margin:0px auto;
+  height: 600px;
+  display: block;
+  line-height: 1;
+}
+.carousel-caption {
+	text-align: center;
+}
+.description {
+	display:none;
+}
